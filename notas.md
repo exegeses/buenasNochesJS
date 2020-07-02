@@ -2,6 +2,7 @@
 
   1. Definición
   2. ¿Qué puede hacer javascript?
+  3. Requisitos de software 
 
 ## 1. Definición
 
@@ -14,6 +15,13 @@
 > Podemos modificar el contenido de un elemento.     
 > Podemos crear un elemento "a pedido". 
 
+## 3. Requisitos de software 
 
+> Un browser.  
+> Un editor (programa para programar).
 
+  a. Sublime text. https://www.sublimetext.com/   
+  b. Visual Studio Code https://code.visualstudio.com/  
+  c. Brackets http://brackets.io/   
+  d. Atom https://atom.io/ 
 
