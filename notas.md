@@ -3,7 +3,8 @@
   1. Definición
   2. ¿Qué puede hacer javascript?
   3. Requisitos de software 
-
+  4. Ejecutar Javascript   
+    
 ## 1. Definición
 
 > Javascript es un lenguaje de programación desarrollado inicialmente para la web. Para FRONTEND. Para gestionar la interactividad en una web.    
@@ -24,4 +25,11 @@
   b. Visual Studio Code https://code.visualstudio.com/  
   c. Brackets http://brackets.io/   
   d. Atom https://atom.io/ 
+
+## 4. Ejecutar Javascript  
+  a. Se puede escribir código javascript como script de terminal. O sea que escribo comandos que se pueden ejecutar en terminal de sistema  
+  b. Se puede ejecutar javascript en al consola del browser.  
+  c. Se puede inserter dentro del elemento "<script>"    
+  d. También se puede generar código javascript en línea (inline). Esto es como varlor de un atributo controlador de eventos de HTML
+
 
