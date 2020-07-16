@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="255d4d0c-63ab-42f9-9aec-4a92db00c319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase2/escribit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase2/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase2/js/escribir.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/escribit.html" beforeDir="false" afterPath="$PROJECT_DIR$/clase2/escribir.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593730133631</updated>
       <workItem from="1593730146189" duration="7880000" />
-      <workItem from="1594936845926" duration="610000" />
+      <workItem from="1594936845926" duration="2070000" />
     </task>
     <servers />
   </component>
