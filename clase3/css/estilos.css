@@ -21,3 +21,10 @@ h1{
     background-color: #a9a9a9;
     margin-top: 20px;
 }
+button{
+    border: 1px solid #ccc;
+    padding: 15px 35px;
+}
+figure{
+    margin: 20px;
+}
