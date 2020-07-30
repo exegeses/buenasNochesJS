@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+body{
+    background-color: #d9d9d9;
+    color: #333;
+    font-family: Helvetica;
+    width: 900px;
+    margin: auto 20px;
+}
+h1{
+    border-left: 12px solid #E8BF6A;
+    padding-left: 18px;
+    margin: 20px 0px;
+}
+#caja{
+    width: 200px;
+    height: 200px;
+    background-color: #a9a9a9;
+    margin-top: 20px;
+}
+button{
+    border: 1px solid #ccc;
+    padding: 15px 35px;
+}
+figure{
+    margin: 20px;
+}

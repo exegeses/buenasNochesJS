@@ -4,6 +4,7 @@
 
     function reloj()
     {
+
         var fecha = new Date();
 
         //obtenemos las horas
@@ -18,6 +19,14 @@
             if( segundos < 10 ){
                 segundos = '0'+ segundos;
             }
+
+        //dia de la semana
+        var semana = [
+                        'Domingo', 'Lunes', 'Martes', 'Miércoles',
+                        'Jueves', 'Viernes', 'Sábado'
+                     ];
+        var hoy = semana[ fecha.getDay() ];
+            console.log( hoy );
 
         //imprimimos el reloj
         //mostrarReloj.innerHTML = '<img src="images/ninja-coder.png">';
