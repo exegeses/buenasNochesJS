@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="255d4d0c-63ab-42f9-9aec-4a92db00c319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clase4/countdown/countdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase4/countdown/css/countdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase4/countdown/js/countdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase4/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase4/countdown/js/countdownSimplificado.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clase3/js/reloj.js" beforeDir="false" afterPath="$PROJECT_DIR$/clase3/js/reloj.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase4/countdown/css/countdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/clase4/countdown/css/countdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase4/countdown/js/countdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/clase4/countdown/js/countdown.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +41,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/clase4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clase4/countdown/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clase4/countdown/js" />
       <recent name="$PROJECT_DIR$/clase4" />
       <recent name="$PROJECT_DIR$/clase3/images" />
       <recent name="$PROJECT_DIR$/clase3" />
@@ -67,7 +66,7 @@
       <workItem from="1593730146189" duration="7880000" />
       <workItem from="1594936845926" duration="10689000" />
       <workItem from="1595541605187" duration="10134000" />
-      <workItem from="1596146179554" duration="795000" />
+      <workItem from="1596146179554" duration="4491000" />
     </task>
     <servers />
   </component>

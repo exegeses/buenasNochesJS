@@ -9,7 +9,7 @@ main{
     margin: auto;
 }
     #cajas{
-        display: flex;
+         display: flex;
     }
     #cDias, #cHoras, #cMinutos, #cSegundos{
         width: 200px;

@@ -23,17 +23,22 @@
         var dias = Math.floor( horas/24 );  //console.log(dias)
 
         // módulo de horas por día
-        horas %= 24;
+        horas = horas % 24;
         //módulo de minutos por hora
-        minutos %= 60;
+        minutos = minutos % 60;
         // módulo de segundos por minutos
-        segundos %= 60;
+        segundos = segundos % 60;
 
         // ceros iniciales
-        //horas = ( condicion ) ? 'true':'false';
-        horas = ( horas < 10 ) ? '0'+horas : horas;
-        minutos = ( minutos < 10 ) ? '0'+ minutos : minutos;
-        segundos = ( segundos < 10 ) ? '0'+ segundos : segundos;
+        if( horas < 10 ){
+            horas = '0'+ horas;
+        }
+        if( minutos < 10 ){
+            minutos = '0'+ minutos;
+        }
+        if ( segundos <10 ){
+            segundos = '0'+ segundos;
+        }
 
         //imprimimos
         txtDias.innerText = dias;
