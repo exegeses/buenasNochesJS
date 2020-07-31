@@ -10,11 +10,29 @@ body{
     width: 900px;
     margin: auto 20px;
 }
-h1{
+h1, h2{
     border-left: 12px solid #E8BF6A;
     padding-left: 18px;
     margin: 20px 0px;
 }
+
+    nav a{
+        text-decoration: none;
+        color: #555;
+        padding: 15px 26px;
+    }
+
+    section{
+        width: 600px;
+        display: flex;
+    }
+    .producto{
+        width: 210px;
+        padding: 10px;
+        margin: 10px;
+        border: 1px solid #ccc;
+    }
+
 #caja{
     width: 200px;
     height: 200px;
