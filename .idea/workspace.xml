@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="255d4d0c-63ab-42f9-9aec-4a92db00c319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clase4/js/ubicarElementos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase4/ubicarElementos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase5/formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase5/imagenes/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase5/js/formulario.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clase4/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/clase4/css/estilos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clase4/js/fecha.js" beforeDir="false" afterPath="$PROJECT_DIR$/clase4/js/fecha.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +41,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/clase4/countdown/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clase5/imagenes" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clase5" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clase5/imagenes" />
       <recent name="$PROJECT_DIR$/clase4/countdown/js" />
       <recent name="$PROJECT_DIR$/clase4" />
       <recent name="$PROJECT_DIR$/clase3/images" />
       <recent name="$PROJECT_DIR$/clase3" />
-      <recent name="$PROJECT_DIR$/clase2" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -67,7 +69,9 @@
       <workItem from="1593730146189" duration="7880000" />
       <workItem from="1594936845926" duration="10689000" />
       <workItem from="1595541605187" duration="10134000" />
-      <workItem from="1596146179554" duration="10750000" />
+      <workItem from="1596146179554" duration="10952000" />
+      <workItem from="1596497136785" duration="13000" />
+      <workItem from="1596750733340" duration="7721000" />
     </task>
     <servers />
   </component>

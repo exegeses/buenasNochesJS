@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de envío</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+<body>
+    <header class="bg-dark">
+        <nav class="container navbar-nav bg-dark py-4 text-light">
+            menu
+        </nav>
+    </header>
+    <main class="container">
+        <h1>Formulario de envío</h1>
+
+        <section class="alert bg-light border p-4 col-8 mx-auto">
+
+            <form action="procesa.php" method="post" onsubmit="return validar()">
+                Nombre: <br>
+                <input type="text" name="nombre"
+                       class="form-control">
+                <small id="errorNombre"
+                       class="mb-4 text-danger"></small>
+                <br>
+                Email: <br>
+                <input type="text" name="email"
+                       class="form-control">
+                <br>
+                Consulta: <br>
+                <textarea name="consulta"
+                          class="form-control"></textarea>
+                <br>
+                <button class="btn btn-dark">Enviar Consulta</button>
+            </form>
+
+        </section>
+
+
+    </main>
+    <footer class="fixed-bottom bg-dark text-center py-4 text-light">
+        &copy; 2020 - todos los derechos reservados.
+    </footer>
+
+    <script src="js/formulario.js"></script>
+</body>
+</html>
